@@ -17,5 +17,5 @@ Com os dados limpos e organizados, fiz um painel em Power BI com um menu com nav
 link: </br>
 https://app.powerbi.com/view?r=eyJrIjoiYzNmYjNlYTQtMzYyOS00NTM3LTk4ZGYtNjk4MjFkYWQzYWQ2IiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
 </br></br>
-![image](https://user-images.githubusercontent.com/30326362/209190226-41211a90-7f08-455e-8457-cd78923073ee.png)
+![image](https://user-images.githubusercontent.com/30326362/209190750-17fc40c4-7521-4d43-a88a-d780dfa45374.png)
 
