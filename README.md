@@ -15,7 +15,7 @@ Depois do download do dataset, comecei a limpar o que eu não queria, transforma
 Com os dados limpos e organizados, fiz um painel em Power BI com um menu com navegação e uma tabela de filtros dinâmica:
 
 link: </br>
-https://app.powerbi.com/view?r=eyJrIjoiOTMzZGJjMDctM2FhZi00YWQ4LWJhZTQtZTVhZjI4MGY1ODVkIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
+https://app.powerbi.com/view?r=eyJrIjoiYzNmYjNlYTQtMzYyOS00NTM3LTk4ZGYtNjk4MjFkYWQzYWQ2IiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9
 </br></br>
-![image](https://user-images.githubusercontent.com/30326362/209177808-2e5a25df-ce86-4bcd-9b61-ed84f1caf1fb.png)
+![image](https://user-images.githubusercontent.com/30326362/209190226-41211a90-7f08-455e-8457-cd78923073ee.png)
 
